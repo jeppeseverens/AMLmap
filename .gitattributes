@@ -1,1 +1,2 @@
+/data/counts/* filter=lfs diff=lfs merge=lfs -text
 **counts.csv filter=lfs diff=lfs merge=lfs -text
