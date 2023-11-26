@@ -2,11 +2,15 @@
 This is a compendium of transcriptional (RNA-seq) data of primary 1224 AML patients, from five different studies. Both uncorreted and corrected counts are supplied. The data was used for: "paper reference" 
 
 Besides gene expression data it includes: 
-1. Aberration data (mutations, fusions and karyotyping data)
-2. Inferred diagnoses from aberration data
-3. Survival data
-4. Drug response data
-5. Clusters
+1. Clusters
+2. Aberration data (mutations, fusions and karyotyping data)
+3. Type of mutation, VAF, and amino acid affected
+4. Ranking of variability of genes.
+5. WHO 2022 and ICC 2022 diagnoses inferred from aberration and meta data
+6. FAB annotations 
+7. Blast percentage
+8. Cell type and immuno phenotype scores
+9. Ex-vivo drug response data
 
 ## Contact
 Jeppe Severens - PhD student at Leiden University Medical Center, the Netherlands
